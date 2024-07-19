@@ -1,0 +1,77 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "FooterSocialLinksOnly"
+    },
+    {
+      "id": "FooterFourColumnWithCompanyMission"
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations",
+        "title": "Purrfectly Brewed Coffee Awaits"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Purrfectly Brewed Coffee Awaits",
+  "subtitle": "Experience the Ultimate Blend of Flavor and Comfort with Our Unique Coffee Creations"
+}
